@@ -17,4 +17,4 @@ if (jawaban in pilihan) :
         print('Anak membeli satu botol susu')
 else:
     print('Anak tidak jadi membeli susu')
-print('Menyerahkan hasil belanjaan kepada ibu')
+print('Menyerahkan hasil belanjaan kepada ibu!')
